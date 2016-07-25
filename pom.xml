@@ -14,7 +14,7 @@
             <artifactId>junit</artifactId>
             <version>RELEASE</version>
             <scope>test</scope>
-        </dependenc
+        </dependency>
     </dependencies>
 
 
